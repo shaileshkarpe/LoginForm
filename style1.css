@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(https://thumbs.dreamstime.com/b/sunset-beach-sunrays-133301221.jpg);
+    background-size:var(#999);
+  background-position: right;
+}
+.sing-up-From{
+    width: 450px;
+     box-shadow: 0 0 3px 0 rgb(0, 0, 3);
+     background:rgb(255, 255, 255);
+     padding: auto 0;
+     margin: 8% auto 0;
+     text-align: center;
+}
+.sing-up-From h1{
+    color: #1c8adb;
+    margin-bottom: 100px ;
+}
+.input-box
+{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px e;
+    width: 80%;
+    border: 1px solid #999;
+    outline: none;
+
+}
+button{
+    color: rgb(0, 50, 187);
+    width: 100%;
+    padding: 10PX;
+    border-radius: 20PX;
+    font-size: 15PX;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+}
+.Sigup-btnt
+{
+background-color: #1c8adb;
+}
+.Linkdin-btn{
+    background-color: #21afde;
+}
+.a{
+    text-decoration: none;
+}
+
+
+.hr{
+    margin: 20px; 
+    width: 80%;
+}
+OR{
+    background:#fff ;
+    width: 30px;
+    margin: -19 auto 10px;
+}
+img{
+    width: 150px;
+}
