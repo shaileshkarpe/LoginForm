@@ -2,9 +2,8 @@ body{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background-image: url(https://thumbs.dreamstime.com/b/sunset-beach-sunrays-133301221.jpg);
     background-size:var(#999);
-  background-position: right;
+
 }
 .sing-up-From{
     width: 450px;
